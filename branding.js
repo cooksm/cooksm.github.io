@@ -11,14 +11,14 @@ function nav() {
 		<div id="nav"> \
 		<ul> \
 			<li><a href="index.html">Home</a></li> \
-			<!--<li><a href="page1.html">Teaching</a></li>--> \
-			<li><a href="CV.html">CV</a></li> \
-			<li><a href="Projects.html">Projects</a></li> \
+			<li><a href="Research.html">Research</a></li> \
+			<li><a href="Publications.html">Publications</a></li> \
 			<li><a href="People.html">People</a></li> \
+			<!--<li><a href="page1.html">Teaching</a></li>--> \
 			<!--<li><a href="page5.html">Contact</a></li>-->\
 		</ul> \
 		</div> \
-		');
+	');
 }
 
 function banner(){
